@@ -7,4 +7,4 @@ March 2021 i have chosen to reorient myself towards Web and mobile developer fea
 I had joined a Bootcamp at [Le Reacteur](https://www.lereacteur.io/) to become "Fullstack Web & Mobile Developer". Mission Done in june 2021 !! 🚀 
 
 I can now design, and develop complete responsive web and mobile applications in Javascript, ReactJS, React Native, HTML5, PHP and CSS3.
-Working with databases, i know MongoDB but also PostGre MySQL.
+Working with databases, i know Node.JS, Express, MongoDB but also MySQL.
