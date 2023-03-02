@@ -13,4 +13,4 @@ Working with databases, i know Node.JS, Express, MongoDB but also MySQL.
 
 ⚙️ My skills
 ------
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,react,py,bootstrap,nextjs,nodejs,ts,vscode,figma,github,ps,sass,tailwind&perline=8)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,react,py,bootstrap,nextjs,nodejs,ts,vscode,figma,github,ps,sass,tailwind&perline=8)](https://github.com/Aurelily)
