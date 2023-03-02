@@ -10,3 +10,11 @@ Nowadays, i'm web development teacher at [La Plateforme Marseille](https://lapla
 
 I can now design, and develop complete responsive web and mobile applications in Javascript, ReactJS, React Native, HTML5, PHP and CSS3.
 Working with databases, i know Node.JS, Express, MongoDB but also MySQL.
+
+⚙️ My skills
+------
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,react,py,bootstrap,nextjs,nodejs,ts,vscode,figma,github,materialui,ps,sass,tailwind)]
+
+😃 Socials
+------
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,react,bootstrap,figma,github)](https://skillicons.dev)
