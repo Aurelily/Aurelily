@@ -20,4 +20,3 @@ Working with databases, i know Node.JS, Express, MongoDB but also MySQL.
 
 [![Contact Me](https://skillicons.dev/icons?i=linkedin&perline=8)](https://www.linkedin.com/in/aureliepreaud/)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
