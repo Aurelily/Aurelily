@@ -13,7 +13,7 @@ Working with databases, i know Node.JS, Express, MongoDB but also MySQL.
 
 ⚙️ My skills
 ------
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,react,symfony,py,bootstrap,nextjs,nodejs,ts,vscode,figma,github,ps,sass,tailwind&perline=8)](https://github.com/Aurelily)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,react,symfony,py,bootstrap,nextjs,nodejs,ts,vscode,figma,github,ps,sass,tailwind,mongodb,mysql&perline=8)](https://github.com/Aurelily)
 
 📫 How to reach me : Send me a message on my LinkedIn profil
 ------
