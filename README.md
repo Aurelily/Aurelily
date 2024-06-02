@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/lilycloud/image/upload/v1672329710/Git%20ReadMe/Home/home_zdfxse.jpg"  alt="Aurélie PREAUD">
+<img src="https://design-dev.net/images-github/ramen.png"  alt="Aurélie PREAUD">
 
 😎 About me
 ------
