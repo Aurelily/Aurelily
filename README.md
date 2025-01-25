@@ -11,6 +11,8 @@ design, web technologies, and innovation. Skilled in front-end development, 2D a
 3D/Blender/Three.js, I offer expertise in crafting engaging user experiences. Additionally, I am dedicated to mentoring
 and inspiring students of all ages through various web development programs.
 
+My career is like a Ramen. Many ingredients harmoniously mixed for maximum flavor !
+
 ⚙️ My skills
 ------
 [![My Skills](https://skillicons.dev/icons?i=js,threejs,blender,html,css,php,react,symfony,py,bootstrap,nextjs,nodejs,ts,vscode,figma,github,ps,sass,tailwind,mongodb,mysql&perline=8)](https://github.com/Aurelily)
