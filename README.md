@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aurélie PREAUD</h1>
-<h3 align="center">Fullstack developer web and mobile / UX-UI Designer 2D and 3D / Web development teacher </h3>
+<h3 align="center">Front-end web & mobile developer / Web development coach / UX-UI Designer / Motion designer 2D et 3D </h3>
 <img src="https://design-dev.net/images-github/ramen.png"  alt="Aurélie PREAUD">
 
 😎 About me
